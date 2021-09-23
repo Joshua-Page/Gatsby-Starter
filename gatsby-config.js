@@ -4,7 +4,7 @@ module.exports = {
 		// TODO: Change URL
 		siteUrl: 'https://www.yourdomain.tld',
 		// TODO: Change title
-		title: 'Essex Accounting',
+		title: 'Gatsby starter with SCSS',
 	},
 	plugins: ['gatsby-plugin-sass', 'gatsby-plugin-react-helmet'],
 };
